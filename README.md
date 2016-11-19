@@ -28,6 +28,8 @@ npm run dev
 ``` bash
 cnpm install -g node-sass									
 ```
+如果上面的命令安装不成功，可以用如下命令：
+npm install node-dass --registry=http://registry.npm.taobao.org
 
 **\*window用户请用管理员模式安装**
 
